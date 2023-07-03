@@ -26,6 +26,12 @@ test
 
 test
 
+* Learning what x is and isn’t
+* Why you should be interested in using/topics
+* When is a good time to use X or Y
+* Understanding what this tour will and won’t teach me
+* Understanding the concepts behind
+
 ### Sub 1
 
 test
